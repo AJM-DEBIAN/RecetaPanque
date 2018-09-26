@@ -8,4 +8,3 @@ Vamos a cosnsensur como se hace un panque...
 - Cristobal
 - Alberto
 - Roberto
-- Alejandro
