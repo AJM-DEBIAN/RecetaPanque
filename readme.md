@@ -9,3 +9,5 @@ Vamos a cosnsensur como se hace un panque...
 - Alberto
 - Roberto
 - Alejandro
+# caso de de uso
+se eliminaron igredientes porque se comprara el panque
