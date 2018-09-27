@@ -15,6 +15,6 @@ se eliminaron igredientes porque se comprara el panque
 se hicieron cambios del lado local
 para ver lo que sucede
 
-#estamos haciendo cambios del lado github
-estamos probando la colision derl lado remosto
+# estamos haciendo cambios del lado github
+estamos probando la colision derl lado remoto
 
