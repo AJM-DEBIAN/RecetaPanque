@@ -8,3 +8,7 @@ Vamos a cosnsensur como se hace un panque...
 - Cristobal
 - Alberto
 - Roberto
+# Caso de uso de creal nuevos participantes
+- Almazan
+- Juarez
+- Todos
