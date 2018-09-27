@@ -11,3 +11,7 @@ Vamos a cosnsensur como se hace un panque...
 - Alejandro
 # caso de de uso
 se eliminaron igredientes porque se comprara el panque
+# vamos a hacer cambios del lado local
+se hicieron cambios del lado local
+para ver lo que sucede
+
