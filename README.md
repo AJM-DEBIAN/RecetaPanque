@@ -8,7 +8,7 @@ Vamos a cosnsensur como se hace un panque...
 - Cristobal
 - Alberto
 - Roberto
-# Caso de uso de crear nuevos participantes en gibhub-remoto
+# Caso de uso de crear nuevos participantes en github-remoto
 - Almazan
 - Juarez
 - Todos
