@@ -14,5 +14,9 @@ se eliminaron igredientes porque se comprara el panque
 # vamos a hacer cambios del lado local para la colision
 se hicieron cambios del lado local
 para ver lo que sucede
+
+# estamos haciendo cambios del lado github
+estamos probando la colision derl lado remoto
+
 # estamos haciendo colision del lado local
 se esta modificando para que la colision se vea 
